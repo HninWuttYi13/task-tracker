@@ -1,0 +1,8 @@
+@import "tailwindcss";
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: rgb(219, 227, 245);
+    color:rgb(10, 10, 82)
+}
